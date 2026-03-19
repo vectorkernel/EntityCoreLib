@@ -1,0 +1,9 @@
+{
+  "name": "entitycorelib",
+  "version-string": "0.1.0",
+  "description": "EntityBook + Boost.Geometry R-tree core library",
+  "dependencies": [
+    "glm",
+    "boost-geometry"
+  ]
+}

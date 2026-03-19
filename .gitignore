@@ -1,0 +1,34 @@
+# Build output
+bin/
+obj/
+out/
+x64/
+x86/
+Debug/
+Release/
+ipch/
+CMakeFiles/
+CMakeCache.txt
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+
+# CMake generated
+Makefile
+cmake_install.cmake
+
+# User-specific
+*.user
+*.suo
+*.userprefs
+
+# Logs
+*.log
+
+# NuGet
+packages/
+*.nupkg
+
+

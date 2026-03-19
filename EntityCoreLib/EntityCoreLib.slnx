@@ -1,0 +1,40 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../AppCoreLib/AppCoreLib.vcxproj" Id="4814f0d8-4cc3-4d78-a716-ce24487b72ad" />
+  <Project Path="../CommandManager/CommandManager.vcxproj" Id="d8b516b6-1161-4f30-a3af-331583564607">
+    <Build Solution="Debug|x64" Project="false" />
+  </Project>
+  <Project Path="../EntityCoreLib_OpenGLApp/EntityCoreLib_OpenGLApp.vcxproj" Id="ad7e94a0-b267-4165-9811-dfb2a8166685" />
+  <Project Path="../EntityCoreLib_PanZoom/EntityCoreLib_PanZoom.vcxproj" Id="5b1ffcf0-7a3d-41ff-b26b-0c679cd7bf84">
+    <Build Solution="Debug|x64" Project="false" />
+  </Project>
+  <Project Path="../EntityHighlighting/EntityHighlighting.vcxproj" Id="6c8e3327-2982-48c1-bdcf-3f94d1b65a6c">
+    <Build Solution="Debug|x64" Project="false" />
+  </Project>
+  <Project Path="../EraseCommandHeadless/EraseCommandHeadless.vcxproj" Id="927c28f9-d95d-42b3-ae0c-58d9aab0b370">
+    <Build Solution="Debug|x64" Project="false" />
+  </Project>
+  <Project Path="../EraseCommandUI/EraseCommandUI.vcxproj" Id="c590335b-1e10-4762-9f2c-4165321b82cb">
+    <Build Solution="Debug|x64" Project="false" />
+  </Project>
+  <Project Path="../GripsSelectionSkeleton/GripsSelectionSkeleton.vcxproj" Id="8de5273a-fdb4-461b-8f90-967e11b4e709">
+    <Build Solution="Debug|x64" Project="false" />
+  </Project>
+  <Project Path="../LineCommandHeadless/LineCommandHeadless.vcxproj" Id="e455da90-54cc-494e-80a5-5ff1afed285e">
+    <Build Solution="Debug|x64" Project="false" />
+  </Project>
+  <Project Path="../LineCommandUI/LineCommandUI.vcxproj" Id="accf79be-e9f2-4ea4-b908-6194e38b24ab">
+    <Build Solution="Debug|x64" Project="false" />
+  </Project>
+  <Project Path="../ModelPaperToggle/ModelPaperToggle.vcxproj" Id="de17f933-9d1a-4a66-ba37-a5bb615a3595">
+    <Build Solution="Debug|x64" Project="false" />
+  </Project>
+  <Project Path="../ModelSpacePaperSpace/ModelSpacePaperSpace.vcxproj" Id="5a3e5585-46b9-4d02-ac47-6b8c04a7764b">
+    <Build Solution="Debug|x64" Project="false" />
+  </Project>
+  <Project Path="../RenderCoreLib/RenderCoreLib.vcxproj" Id="17681931-fbaa-4831-9fef-761e3df93e76" />
+  <Project Path="EntityCoreLib.vcxproj" Id="b4c9e44f-4d42-46a4-909f-67a0833cc3ca" />
+</Solution>

@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\EntityCoreLib_OpenGLApp\\EntityCoreLib_OpenGLApp.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
