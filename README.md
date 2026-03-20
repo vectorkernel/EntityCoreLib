@@ -1,3 +1,14 @@
+*** This is a to draw from repository that is lagging behind and not meant to be working. One can look at the code to see where the direction for Vector Kernel is heading. Please see https://github.com/vectorkernel/Example001_OpenGLApp, which improves the code with use of polymorphism. 
+
+https://github.com/vectorkernel/Example001_OpenGLApp
+
+Is the first example now meant to supercede:
+
+https://github.com/vectorkernel/VectorKernel-Starter
+
+which acturally is a bit more advanced. All features of the Vector Kernel will now start to be enumerated by numbered example. Each example will at some point be compiled all toghether to build Vector Kernel applicatoin which will be as full featured as I can make it.
+
+
 # EntityCoreLib
 
 Minimal static library providing core data structures and spatial indexing for vector/CAD-style applications.
